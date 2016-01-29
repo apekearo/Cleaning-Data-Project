@@ -1,4 +1,4 @@
-#R_analysis.R = Apekearo 1/28/2016 Coursera Getting and cleaning data
+#run_analysis.R = Apekearo 1/28/2016 Coursera Getting and cleaning data
 ###############################################################################
 
 #The project demonstrates my ability to collect, clean, and work with a data set.
