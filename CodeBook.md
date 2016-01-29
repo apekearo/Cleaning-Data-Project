@@ -31,7 +31,11 @@ An identifier of the subject who carried out the experiment (30 different subjec
 Mean of Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
 Mean of Triaxial Angular velocity from the gyroscope.
 numerical value ranging in [-1,1]
+
+
+
 Variable names
+
 
 activity
 subject
